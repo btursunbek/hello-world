@@ -1,3 +1,5 @@
 it's a test file
 
 test file is changed
+
+new
